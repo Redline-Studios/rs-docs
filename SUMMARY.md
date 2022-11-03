@@ -1,23 +1,18 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [Redline Studios](README.md)
 
-## The Basics
+## 🔔 Tutorials&#x20;
 
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
+* [Github Installion ](tutorials/github-installion.md)
 
-## Publishing
+## 📃 Resources&#x20;
 
-* [Publishing your content](publishing/publishing-your-content.md)
+* [rs-drifting](resources/rs-drifting.md)
+* [rs-frontdesk](resources/rs-frontdesk.md)
 
-## Tips and tricks
+***
 
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
-
-## Next steps
-
-* [What next?](next-steps/what-next.md)
+* [Discord](https://discord.gg/tQvhYW9556)
+* [Github](https://github.com/Redline-Studios)
+* [Tebex](https://redline-studios.tebex.io)

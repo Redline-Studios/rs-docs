@@ -1,4 +1,10 @@
-# Get Started
+---
+cover: .gitbook/assets/redline_banner_small.png
+coverY: 0
+layout: landing
+---
+
+# Redline Studios
 
 ## Try it out
 
